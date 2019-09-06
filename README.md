@@ -9,4 +9,5 @@ DecisionTreeClassifier
 만 적용하던 저에게 Regression 관련 Scikit-learn 모델인  
 LinearRegression  
 Lasso  
-등의 모델을 사용하여 문제를 해결할 계기를 만들어 준 Competition입니다.
+등의 모델을 사용하여 문제를 해결할 계기를 만들어 준 Competition입니다.  
+Regression모델을 활용하여 날씨에 관한 유통량예측모델을 만들었으며, 성공여부는 정확히 파악하기 힘들었습니다.
